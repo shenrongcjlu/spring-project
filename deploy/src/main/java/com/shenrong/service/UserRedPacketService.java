@@ -8,5 +8,5 @@ public interface UserRedPacketService {
      * @param userRedPacket
      * @return
      */
-    int grabRedPacket(UserRedPacket userRedPacket);
+    int grabRedPacket(Long redPacketId, Long userId);
 }
