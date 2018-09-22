@@ -19,6 +19,7 @@
         <module>learn-web</module>
         <module>learn-web2</module>
         <module>learn-redis</module>
+        <module>deploy</module>
     </modules>
 
     <properties>
